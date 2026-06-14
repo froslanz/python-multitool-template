@@ -9,4 +9,4 @@ Absolutely. At the start of the script, there is a Shebang that looks like this:
 that makes the system recognize its a Python file. However, the script uses  a function called `os.startfile()`, that is Windows-exclusive.
 If you want to use this on Linux/macOS, you can download the Linux version of the .py file on the Releases page called "pymt-linux-macos.py".
 - Do i need any additional libraries?
-Nope. The script only makes use of the `os` library that comes pre-installed in Python. 
+Nope. The script only makes use of the `os` and `pathlib` libraries that comes pre-installed in Python. 
