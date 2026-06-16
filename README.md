@@ -12,4 +12,5 @@ I plan in including Linux/macOS version on the initial release
 
 Nope. The script only makes use of the `os`, `pathlib` and `time` libraries that comes pre-installed in Python.
 - Did you use AI?
+
 Used it for debugging, finding errors on my script, and posible solutions to specific problems. That's it.
